@@ -7,7 +7,7 @@
 
 # 嗨，我是 joijndysq！ 👋   Hi, I'm joijndysq! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%94%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Robotics+Engineer+%F0%9F%A4%96;Computer+Vision+Algorithm+Developer+%F0%9F%91%81%EF%B8%8F;C%2FC%2B%2B+%7C+Python+%7C+ROS1%2FROS2+%7C+PyTorch" alt="Typing SVG" />
 
 </div>
 
@@ -15,25 +15,23 @@
 
 ## 🇨🇳 关于我
 
-> 💡 *"代码是诗，Bug 是惊喜（？）"*
+> 💡 *"让机器人看懂世界，让算法真正落地。"*
 
-- 🔭 **正在做：** 探索有趣的开源项目
-- 🌱 **正在学：** 新技术栈 / 系统设计 / 更多黑魔法 🧙
-- 💬 **欢迎聊：** 编程、技术、游戏、生活中任何有趣的事
-- 😄 **一个事实：** 我调 Bug 的时间比写代码还长（大家都这样对吧？）
-- ⚡ **彩蛋：** 我喝咖啡的速度和我 `git push` 的速度一样快 ☕
+- 🤖 **方向：** 机器人系统与视觉算法
+- 👁️ **专注：** 目标检测、跟踪、感知融合与部署优化
+- 🧠 **技术栈：** C/C++、Python、ROS1/ROS2、PyTorch
+- 💬 **欢迎交流：** 机器人感知、工程化落地、算法优化
 
 ---
 
 ## 🇬🇧 About Me
 
-> 💡 *"Code is poetry, bugs are plot twists."*
+> 💡 *"Turning perception algorithms into real robot intelligence."*
 
-- 🔭 **Currently working on:** Exploring fun open-source projects
-- 🌱 **Currently learning:** New tech stacks / system design / more dark arts 🧙
-- 💬 **Ask me about:** Programming, tech, games, or anything interesting in life
-- 😄 **Fun fact:** I spend more time debugging than coding — but hey, that's normal, right?
-- ⚡ **Secret:** I push commits at the same speed I drink coffee ☕
+- 🤖 **Focus:** Robotics systems and computer vision algorithms
+- 👁️ **Interests:** Detection, tracking, perception fusion, and efficient deployment
+- 🧠 **Tech stack:** C/C++, Python, ROS1/ROS2, and PyTorch
+- 💬 **Ask me about:** Robot perception, algorithm engineering, and optimization
 
 ---
 
@@ -44,20 +42,18 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Frontend**
+**Robotics & Vision**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ROS1](https://img.shields.io/badge/ROS1-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-0A0FF9?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **Backend & Tools**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -70,9 +66,9 @@
 
 | 🎯 项目 / Project | 📝 简介 / Description | 🔧 技术栈 / Stack |
 |---|---|---|
-| 🌟 [项目一](#) | 一个很酷的项目（敬请期待！） | Python · Docker |
-| 🛸 [项目二](#) | Another cool project (coming soon!) | React · Node.js |
-| 🔮 [项目三](#) | 施工中… 🚧 Under construction | TypeScript · ... |
+| 🌟 [机器人视觉感知项目](#) | 面向机器人场景的视觉检测与跟踪（持续更新） | C++ · Python · ROS · PyTorch |
+| 🛸 [多传感器融合实验](#) | 融合视觉与其他传感器信息提升感知鲁棒性 | ROS2 · C++ · OpenCV |
+| 🔮 [部署与优化实践](#) | 从训练到部署的工程化优化记录 | PyTorch · Linux · Docker |
 
 > 更多项目见 👉 [我的仓库 / My Repos](https://github.com/joijndysq?tab=repositories)
 
