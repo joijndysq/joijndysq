@@ -20,6 +20,7 @@
 - 🤖 **方向：** 机器人系统与视觉算法
 - 👁️ **专注：** 目标检测、跟踪、感知融合与部署优化
 - 🧠 **技术栈：** C/C++、Python、ROS1/ROS2、PyTorch
+- 🌐 **个人主页：** [joijndysq.github.io](https://joijndysq.github.io)
 - 💬 **欢迎交流：** 机器人感知、工程化落地、算法优化
 
 ---
@@ -31,6 +32,7 @@
 - 🤖 **Focus:** Robotics systems and computer vision algorithms
 - 👁️ **Interests:** Detection, tracking, perception fusion, and efficient deployment
 - 🧠 **Tech stack:** C/C++, Python, ROS1/ROS2, and PyTorch
+- 🌐 **Homepage:** [joijndysq.github.io](https://joijndysq.github.io)
 - 💬 **Ask me about:** Robot perception, algorithm engineering, and optimization
 
 ---
@@ -66,9 +68,10 @@
 
 | 🎯 项目 / Project | 📝 简介 / Description | 🔧 技术栈 / Stack |
 |---|---|---|
-| 🌟 [机器人视觉感知项目](#) | 面向机器人场景的视觉检测与跟踪（持续更新） | C++ · Python · ROS · PyTorch |
-| 🛸 [多传感器融合实验](#) | 融合视觉与其他传感器信息提升感知鲁棒性 | ROS2 · C++ · OpenCV |
-| 🔮 [部署与优化实践](#) | 从训练到部署的工程化优化记录 | PyTorch · Linux · Docker |
+| 🌟 [multimodal_detect](https://github.com/joijndysq/multimodal_detect) | 红外-可见光融合目标检测项目 / RGB-IR fusion detection project | C++ · Python · OpenCV |
+| 🤖 [agibot_d1_ws](https://github.com/joijndysq/agibot_d1_ws) | AgiBot D1 机器人工作空间与控制开发 / Robotics workspace and control development | ROS2 · C++ |
+| 🦾 [arm_ws](https://github.com/joijndysq/arm_ws) | 机械臂 MoveIt 控制与仿真包 / Robotic arm MoveIt control package | Python · ROS · MoveIt |
+| ✋ [hand_ws](https://github.com/joijndysq/hand_ws) | 灵巧手 MoveIt 控制工程 / Dexterous hand MoveIt package | Python · ROS · MoveIt |
 
 > 更多项目见 👉 [我的仓库 / My Repos](https://github.com/joijndysq?tab=repositories)
 
@@ -92,6 +95,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joijndysq)
+[![Homepage](https://img.shields.io/badge/Homepage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joijndysq.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leexii798@gmail.com)
 
 </div>
